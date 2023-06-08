@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/irc/static/css/main.073c9b0a.css",
-    "main.js": "/irc/static/js/main.f0d2b6a7.js",
+    "main.css": "/irc/static/css/main.8e87be99.css",
+    "main.js": "/irc/static/js/main.84a583e3.js",
     "static/js/787.6b19acf0.chunk.js": "/irc/static/js/787.6b19acf0.chunk.js",
-    "static/media/logo.svg": "/irc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/illustration-thank-you.svg": "/irc/static/media/illustration-thank-you.d74a66b551b99ae110b5362ed63106bf.svg",
     "index.html": "/irc/index.html",
-    "main.073c9b0a.css.map": "/irc/static/css/main.073c9b0a.css.map",
-    "main.f0d2b6a7.js.map": "/irc/static/js/main.f0d2b6a7.js.map",
+    "static/media/icon-star.svg": "/irc/static/media/icon-star.12766a8d207af861a70f92500634c8be.svg",
+    "main.8e87be99.css.map": "/irc/static/css/main.8e87be99.css.map",
+    "main.84a583e3.js.map": "/irc/static/js/main.84a583e3.js.map",
     "787.6b19acf0.chunk.js.map": "/irc/static/js/787.6b19acf0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.f0d2b6a7.js"
+    "static/css/main.8e87be99.css",
+    "static/js/main.84a583e3.js"
   ]
 }
