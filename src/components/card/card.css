@@ -1,0 +1,30 @@
+.card{
+    background-color: #181E27;
+    border: 2px solid #181E27;
+    border-radius: 30px;
+    height: 416px;
+    width: 412px;
+    left: 514px;
+    top: 195px;
+    margin: auto;
+    margin-top:7rem;
+
+}
+
+@media (max-width:430px) {
+.card{
+    width: 327px;
+    height: 360px;
+    left: 24px;
+    top: 154px;
+    border-radius: 15px;
+    margin: 60px auto;
+
+}
+}
+
+@media (max-width:350px) {
+    .card{
+        width: 280px;
+    }
+}
